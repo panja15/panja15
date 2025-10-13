@@ -72,7 +72,7 @@ A microservice-based application built with **Next.js**, **Node.js**, and **Post
 
 ### 💬 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="[_blank](https://www.linkedin.com/in/tushar-panja15/)">
+  <a href="https://www.linkedin.com/in/tushar-panja15/" target="">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:panja.tushar15@gmail.com">
