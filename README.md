@@ -60,12 +60,12 @@ A microservice-based application built with **Next.js**, **Node.js**, and **Post
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raj&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raj&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=panja15&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=panja15&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panja15&layout=compact&theme=radical" />
 </p>
 
 ---
