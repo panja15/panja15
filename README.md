@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Raj 👋</h1>
+<h1 align="center">Hey there, I'm Tushar 👋</h1>
 
 <p align="center">
   <em>Backend Developer | React Enthusiast | Cloud Learner | Turning ideas into scalable systems 🚀</em>
@@ -7,53 +7,48 @@
 ---
 
 ### 🧠 About Me  
-- 💻 I’m a **backend developer** with 2+ years of experience, currently diving deep into **microservices**, **PostgreSQL FTS**, and **Kafka**.  
+- 💻 I’m a **backend developer** with 2+ years of experience, currently diving deep into **microservices**, **PostgreSQL**, and **Kafka**.  
 - 🎧 Building a **Spotify-like music app** using **Next.js**, **Node.js**, and **Supabase**.  
-- ☁️ Exploring **Azure** and **Google Cloud** — aiming to master scalable deployments and cloud-native design.  
+- ☁️ Exploring **Google Cloud** — aiming to master scalable deployments and cloud-native design.  
 - 🧩 I enjoy solving complex system problems and experimenting with new tech stacks.  
 - 🔄 Always learning, always building!
 
 ---
 
-### 🛠️ Tech Stack & Tools
 
 #### 💻 Languages & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,express,html,css" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,reactnative,express,html,css" />
 </p>
 
 #### 🗄️ Databases & Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,sequelize,redis" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sequelize,redis,firebase" />
 </p>
 
-#### ⚙️ DevOps & Messaging  
+#### ⚙️ DevOps, Cloud & Observability  
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kafka" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynatrace/dynatrace-original.svg" width="48" height="48" />
 </p>
 
-#### ☁️ Cloud Platforms  
+#### 🧰 Developer Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,gcp" />
-</p>
-
-#### 🧰 Tools & Others  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira,confluence" />
 </p>
 
 ---
 
-### 🧩 Featured Project
+### 🧩 Featured Project  
 🎶 **MusicMix – A Spotify-like Music App**  
-A microservice-based app built with **Next.js**, **Node.js**, and **PostgreSQL FTS**, integrating **Spotify API**, **Kafka**, and **Supabase**.  
-> 💡 Focused on scalability, real-time sync, and clean UI.
+A microservice-based application built with **Next.js**, **Node.js**, and **PostgreSQL FTS**, integrating **Spotify API**, **Kafka**, and **Supabase**.  
+> 💡 Focused on scalability, real-time sync, and a clean, intuitive UI.
 
 ---
 
 ### 🏅 Certifications  
-- ☁️ Microsoft Certified: **Azure Fundamentals (AZ-900)**  
-- 🌐 Preparing for **Google Cloud Digital Leader (GCDL)**
+- ☁️ Google Certified: **Google Cloud Digital Leader (GCDL)** 
 
 ---
 
