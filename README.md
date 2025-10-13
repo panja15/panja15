@@ -18,12 +18,12 @@
 
 #### 💻 Languages & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,reactnative,express,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,graphql,react,nextjs,reactnative" />
 </p>
 
 #### 🗄️ Databases & Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sequelize,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sequelize,supabase,rabbitmq,redis,firebase" />
 </p>
 
 #### ⚙️ DevOps, Cloud & Observability  
@@ -36,6 +36,11 @@
 #### 🧰 Developer Tools & Platforms  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira,confluence" />
+</p>
+
+#### ⚡ Hardware & IoT  
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 ---
@@ -67,10 +72,10 @@ A microservice-based application built with **Next.js**, **Node.js**, and **Post
 
 ### 💬 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="[_blank](https://www.linkedin.com/in/tushar-panja15/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR.EMAIL@domain.com">
+  <a href="mailto:panja.tushar15@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
