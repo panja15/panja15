@@ -8,10 +8,11 @@
 
 ### 🧠 About Me  
 - 💻 I’m a **Fullstack developer** with 3+ years of experience, currently diving deep into **microservices**, **PostgreSQL**, and **Kafka**.  
-- 🎧 Building a **Spotify-like music app** using **Next.js**, **Node.js**, **Spotify API** and **Supabase**.  
+- ✨ Proud that I build a **Spotify-like music app** using **Next.js**, **Node.js**, **Spotify API** and **Supabase**.  
 - ☁️ Exploring **Google Cloud** — aiming to master scalable deployments and cloud-native design.  
 - 🧩 I enjoy solving complex system problems and experimenting with new tech stacks.  
-- 🔄 Always learning, always building!
+- 🧬 Transitioning towards AI as by daily buddy.
+- 💪 Always learning, always building!
 
 ---
 
